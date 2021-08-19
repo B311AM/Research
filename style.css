@@ -1,7 +1,7 @@
 .header{
     font-family:monospace;
     font-size:50px;
-    color:#EE1289;
+    color:#39FF14;
     background-color:black;
     font-style:bold;
 }
@@ -22,8 +22,8 @@
     color:white;
     background-color:black;
     border-style:double;
-    border-color:#e91e63;
-    border-width:15px;
+    border-color:#39FF14;
+    border-width:8px;
 }
 body{
     background-color:#ff80ab;
@@ -31,12 +31,12 @@ body{
 .images{
     border-style:double;
     border-color:#e91e63;
-    border-width: 7pt;
+    border-width: 10pt;
 }
 .iframestyle{
     border-style:double;
     border-color:#e91e63;
-    border-width: 7pt;
+    border-width: 10pt;
     float:right;
     margin-right:70px;
 }
