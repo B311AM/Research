@@ -1,0 +1,19 @@
+.header{
+    font-family:monospace;
+    font-size:75px;
+    color:#EE1289;
+    background-color:black;
+    font-style:bold;
+}
+.paragraph{
+    text-align:center;
+    font-family:monospace;
+    font-size:50px;
+    color:white;
+}
+.listitems{
+    text-align:center;
+    font-family:monospace;
+    font-size:20px;
+    color:white;
+}
