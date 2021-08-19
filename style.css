@@ -17,13 +17,20 @@
     font-family:monospace;
     font-size:30px;
     color:white;
+    background-color:black;
 }
 body{
     background-color:#ff80ab;
 }
-ul.no-bullets {
-    list-style-type:none;
+.images{
+    border-style:double;
+    border-color:#e91e63;
+    border-width: 7pt;
 }
-.video {
-    align:right;
+.iframestyle{
+    border-style:double;
+    border-color:#e91e63;
+    border-width: 7pt;
+    float:right;
+    margin-right:70px;
 }
