@@ -1,7 +1,7 @@
 .header{
     font-family:monospace;
     font-size:50px;
-    color:#39FF14;
+    color:#CC66FF;
     background-color:black;
     font-style:bold;
 }
@@ -12,7 +12,7 @@
     color:white;
     background-color:black;
     border-style:double;
-    border-color:#e91e63;
+    border-color:#CC66FF;
     border-width:15px;
 }
 .listitems{
@@ -22,20 +22,20 @@
     color:white;
     background-color:black;
     border-style:double;
-    border-color:#39FF14;
+    border-color:#00FFCC;
     border-width:8px;
 }
 body{
-    background-color:#ff80ab;
+    background-color:black;
 }
 .images{
     border-style:double;
-    border-color:#e91e63;
+    border-color:#00FFCC;
     border-width: 10pt;
 }
 .iframestyle{
     border-style:double;
-    border-color:#e91e63;
+    border-color:#CC66FF;
     border-width: 10pt;
     float:center;
     margin-left:440px;
@@ -47,13 +47,13 @@ font-size:30px;
 color:white;
 background-color:black;
 border-style:double;
-border-color:#e91e63;
+border-color:#00FFCC;
 border-width:20px;
 }
 .subheadings{
     font-family:monospace;
     font-size:30px;
-    color:#e91e63;
+    color:#CC66FF;
     background-color:black;
 }
 
