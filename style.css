@@ -37,8 +37,8 @@ body{
     border-style:double;
     border-color:#e91e63;
     border-width: 10pt;
-    float:right;
-    margin-right:70px;
+    float:center;
+    margin-left:440px;
 }
 .songs{
 text-align:center;
@@ -49,5 +49,11 @@ background-color:black;
 border-style:double;
 border-color:#e91e63;
 border-width:20px;
+}
+.subheadings{
+    font-family:monospace;
+    font-size:30px;
+    color:#e91e63;
+    background-color:black;
 }
 
