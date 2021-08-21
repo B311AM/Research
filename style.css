@@ -56,4 +56,9 @@ border-width:20px;
     color:#CC66FF;
     background-color:black;
 }
-
+.subsubheadings{
+    font-family:monospace;
+    font-size:25px;
+    color:#00FFCC;
+    background-color:black;
+}
