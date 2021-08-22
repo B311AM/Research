@@ -32,13 +32,13 @@ body{
     border-style:double;
     border-color:#00FFCC;
     border-width: 10pt;
+    float:center;
 }
 .iframestyle{
     border-style:double;
     border-color:#CC66FF;
     border-width: 10pt;
     float:center;
-    margin-left:440px;
 }
 .songs{
 text-align:center;
