@@ -65,3 +65,9 @@ border-width:20px;
 .footer{
     background-image:url(src=https://i.pinimg.com/originals/fa/4f/2c/fa4f2c1154080a2635c66c3b6cf5d40a.jpg);
 }
+.table{
+    border-style:double;
+    border-color:#CC66FF;
+    border-width:20px;
+    color:white;
+}
